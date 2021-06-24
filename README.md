@@ -15,9 +15,10 @@
 - You can download **anime.min.js** file and directly use it.
 - Just google anime.js CDN and you will get the link and just put it in your script tag.
 - Click on the link here -> [Anime.js(CDN)](https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.0/anime.min.js)
-<code>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.0/anime.min.js"></script>
-</code>
+    <code>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.0/anime.min.js"></script>
+    </code>
+<br/>
 - You can also download it from GitHub -> [Anime.js(GitHub)](https://github.com/juliangarnier/anime/blob/master/lib/anime.min.js)
 
 #### So there are a lot of different properties we have to know about when we are dealing with it.
