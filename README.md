@@ -15,6 +15,7 @@
 - You can download **anime.min.js** file and directly use it.
 - Just google anime.js CDN and you will get the link and just put it in your script tag.
 - Click on the link here -> [Anime.js(CDN)](https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.0/anime.min.js)
+<br />
     <code>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.0/anime.min.js"></script>
     </code>
